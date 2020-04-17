@@ -1,0 +1,46 @@
+.cursive {
+    font-family: 'Playfair Display SC', serif;
+}
+.titleCont {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.title {
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 50px;
+}
+.dateCont {
+    display: flex;
+    justify-content: center;
+}
+.date {
+    margin: 0px 0px 20px 0px;
+    font-size: 20px
+ }
+ .main {
+    display: flex;
+    justify-content: space-evenly;
+}
+.section {
+    width: 26%;
+    height: auto;
+    padding: 0px 10px
+}
+.center {
+    width: 38%;
+}
+.line {
+    border-left: 1px solid;
+}
+.aTitle {
+    font-size: 25px;
+}
+.aMid {
+    border-top: 1px solid;
+    padding-top: 25px;
+}
+p {
+    font-size: 19px;
+}
